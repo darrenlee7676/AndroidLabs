@@ -1,4 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources><string name="app_name">第一个实验作业</string>
+<resources>
+    <string name="app_name">第一个实验作业</string>
     <string name="hello_message">你好!</string>
-    <string name="ButtonText">这是一个按钮</string></resources>
+    <string name="ButtonText">这是一个按钮</string>
+    <string name="login">登入</string>
+    <string name="LoginName">用户名</string>
+    <string name="password">密码</string>
+    <string name="Rid">单选按钮</string>
+    <string name="check">勾选框</string>
+    <string name="sw">这个是干什么的</string>
+    <string name="dialog_message">是否结束当前活动</string>
+    <string name="dialog_title">标题</string>
+    <string name="OK">确定</string>
+    <string name="cancel">取消</string>
+    <string name="Login2">登入</string>
+    <string name="ON">开关打开</string>
+    <string name="OFF">开关关闭</string>
+    <string name="Start_Chat">开始聊天</string>
+    <string name="send">发送</string>
+    <string name="Weather_Forecast">天气预报</string>
+    <string name="temp_now">现在天气 </string>
+    <string name="temp_min">最低温 </string>
+    <string name="temp_max">最高温 </string>
+    <string name="deleteMessageButton">删除此条消息</string>
+    <string name="chatIDTextView">ID = </string>
+    <string name="chatMessageTextView">在此发信息</string>
+    <string name="actionOne">选择1</string>
+    <string name="actionTwo">选择2</string>
+    <string name="actionThree">选择3</string>
+    <string name="about">关于</string>
+    <string name="TestToolbar">工具栏</string>
+</resources>

@@ -1,6 +1,36 @@
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">Lab2</string>
     <string name="hello_message">Hello world!</string>
     <string name="ButtonText">I\'m a button</string>
+    <string name="login">Login</string>
+    <string name="LoginName">Login Name</string>
+    <string name="password">Password</string>
+    <string name="Rid">RadioButton</string>
+    <string name="check">CheckBox</string>
+    <string name="sw">What does this do</string>
+    <string name="dialog_message">Do you wang to finish the activity</string>
+    <string name="dialog_title">Title</string>
+    <string name="OK">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="Login2">Login</string>
+    <string name="ON">Switch is On</string>
+    <string name="OFF">Switch is Off</string>
+    <string name="Start_Chat">Start Chat</string>
+    <string name="send">SEND</string>
+    <string name="Weather_Forecast">Weather Forecast</string>
+    <string name="temp_now">Current temperature </string>
+    <string name="temp_min">Minimum temperature </string>
+    <string name="temp_max">Maximum temperature </string>
+    <string name="deleteMessageButton">DELETE THIS MESSAGE</string>
+    <string name="chatIDTextView">ID = </string>
+    <string name="chatMessageTextView">MessageHere</string>
+    <string name="title_activity_test_toolbar">TestToolbar</string>
+    <string name="actionOne">Choice 1</string>
+    <string name="actionTwo">Choice 2</string>
+    <string name="actionThree">Choice 3</string>
+    <string name="about">About</string>
+    <string name="TestToolbar">Test Toolbar</string>
+    <string name="newMessage">New Message</string>
+    <string name="happyFace">Happy Face</string>
 </resources>
 
